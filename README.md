@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science AS level
 - 💞️ I’m looking to collaborate on anything but preferably html/css
 - 📫 How to reach me (will sort this later)
-- 😄 Pronouns: dont have any?
+- 😄 Pronouns: N/A
 - ⚡ Fun fact: i love gaming
 
 <!---
